@@ -1,0 +1,487 @@
+
+
+body {
+    background-color: rgb(255, 252, 246);
+}
+.container5{
+    width: 1900px;
+    margin: 0 auto;
+}
+
+
+@media (max-width: 1700px) {
+    .container5 {
+        margin-left: -200px;
+}
+}
+    @media (max-width: 1700px) {
+        .pagelinks {
+            margin-right: 20px !important;
+    
+    }
+}
+        @media (max-width: 1700px) {
+            .pagelinks {
+                margin-right: 0% !important;
+}
+}
+
+
+@media (max-width: 1500px) {
+    .geninfo, .caption2 {
+        margin-right: 200px !important;
+     }
+    }
+
+         @media (max-width: 1500px) {
+            .JeterPic {
+                margin-right: 300px !important;
+                margin-top: -110px;
+           }
+          }
+
+            @media (max-width: 1500px) {
+                .caption{
+                    padding-left: 61px !important;
+                    margin-right:1%;
+               }
+              }
+              @media (max-width: 1500px) {
+                .midline2 {
+                    margin-top: 50px !important;
+                    width: 84.3%;
+                    margin-right: 200px !important;
+                    margin-left: 37px !important;
+                }
+               }
+                @media (max-width: 1500px) {
+                    .midline1, .midline4 {
+                        width: 84.3%;
+                        margin-right: 200px;
+                        margin-left: 37px;                                        /* 2.3 width midline = 6px margin left midline. */
+                }
+               }
+                    @media (max-width: 1500px) {
+                        .caption2 {
+                            margin-right: 225px !important;
+                }
+               }
+                    @media (max-width: 1500px) {
+                        .page1head {
+                            padding-right: 985px !important;
+                    }
+                }
+                        @media (max-width: 1500px) {
+                            .pagelinks {
+                                margin-right: 0% !important;
+            }
+        }
+
+@media (max-width: 1275px) {
+    .geninfo{
+        margin-right: 400px !important;
+     }
+    }
+    @media (max-width: 1275px) {
+        .caption2{
+            margin-right: 520px !important;
+         }
+        }
+        @media (max-width: 1275px) {
+            .midline2{
+                margin-top: 16.5% !important;
+             }
+            }
+            @media (max-width: 1275px) {
+                .JeterPic{
+                    margin-right: 580px !important;
+                    margin-top: -325px
+                 }
+                }
+                @media (max-width: 1275px) {
+                    .caption{
+                        padding-left: 50px !important;
+                        margin-right: 11px !important;
+                
+                     }
+                    }
+                    @media (max-width: 1275px) {
+                        .midline2, .midline1, .midline4 {
+                            width: 64.46%; /* 8 - 6.5 */
+                            margin-right: 580px !important;
+                            margin-left: 84px !important;
+                        }
+                       }
+                       @media (max-width: 1275px) {
+                        .page1head {
+                            padding-right: 703px !important;
+                    
+                    }
+                }
+                         @media (max-width: 1275px) {
+                            .pagelinks {
+                                margin-right: 0% !important;
+                    }
+                }
+
+@media (max-width: 1010px) {
+    .JeterPic {
+       margin-top: 48.5% !important;
+       margin-left: -2130px !important;
+                         
+         }
+        }
+        @media (max-width: 1010px) {
+            .geninfo {
+               text-align: left !important;
+               margin-right: 17.5% !important; 
+                         
+                 }
+                }
+                @media (max-width: 1010px) {
+                    .caption {
+                        padding-left: 132px !important;       
+                         }
+                        }
+                        @media (max-width: 1010px) {
+                            .midline2{
+                                padding-bottom: 392px !important;  
+                                margin-top: -3% !important;     
+                                 }
+                                }
+                                @media (max-width: 1010px) {
+                                    .YTphoto{
+                                        margin-top: -390px !important;     
+                                        width: 39.4% !important;
+                                       
+                                         }
+                                        }
+                                        @media (max-width: 1010px) {
+                                            .caption2 {
+                                                margin-left: -39.4% !important;
+                                                 margin-right: 45.8% !important;
+                                                }
+                                               }
+                                               @media (max-width: 1010px) {
+                                                .copyright {
+                                                    margin-left: -11%;
+                                                    
+                                                    }
+                                                   }
+                                                   @media (max-width: 1010px) {
+                                                    .midline2, .midline1, .midline4 {
+                                                        width: 45.9% !important; /* 8 - 6.5 */
+                                                        margin-right: 580px !important;
+                                                        margin-left: 128px !important;
+                                                        
+                                                    }
+                                                   }
+                                                        @media (max-width: 1010px) {
+                                                            .page1head {
+                                                                padding-right: 438px !important;
+                                                
+                                                }
+                                            }
+                                                            @media (max-width: 1010px) {
+                                                                .pagelinks {
+                                                                    margin-right: 0% !important;
+                                                }
+                                            }
+@media (max-width: 755px) {
+    .geninfo {
+        margin-right: 32% !important;
+                                                        
+        }
+       }
+       @media (max-width: 755px) {
+        .JeterPic img {
+            width: 13% !important;
+            margin-right: 6%;
+            margin-top: -150px !important;
+                                              
+            }
+           }
+         
+           @media (max-width: 755px) {
+            .JeterPic {
+                margin: 0 !important;      
+                left: -100.75% !important;     
+                width: 165%;      
+                margin-top: 585px !important;   
+                margin-bottom: -50px !important;   
+                }
+               }
+               
+               @media (max-width: 755px) {
+                .midline2 {
+                    margin-top: 90px !important;  
+                    }
+                   }
+                   @media (max-width: 755px) {
+                    .caption {
+                        padding-left:120px !important;
+                        
+                        }
+                       }
+                       @media (max-width: 755px) {
+                        .YTphoto {
+                            width: 24.45% !important;
+                            
+                            }
+                           }
+                           @media (max-width: 755px) {
+                            .caption2 {
+                                margin-left: -24.45% !important;
+                                margin-top: -8% !important;
+                                margin-right: 62.3% !important;
+                            
+                                
+                                }
+                               }
+                               @media (max-width: 755px) {
+                                .copyright {
+                                    margin-left: -21% !important;
+                                
+                                    
+                                    }
+                                   }
+                                   @media (max-width: 755px) {
+                                    .midline2, .midline1, .midline4 {
+                                        width: 28.4% !important; /* 8 - 6.5 */
+                                        margin-right: 580px !important;
+                                        margin-left: 170px !important;
+                                        
+                                    }
+                                   }
+                                        @media (max-width: 755px) {
+                                            .pagelinks {
+                                                margin-right: 0% !important;
+                                                position: static !important;
+                                
+                                }
+                            }
+                                            @media (max-width: 755px) {
+                                                .page1head {
+                                                    padding-right: 189px !important;
+                            
+                            }
+                        }
+                       
+                            
+    
+    
+
+
+.page1head {
+padding-left: 12.42%;
+left: 632.7px;
+color:rgb(172, 170, 170);
+padding-right: 1210px;
+}
+
+a {
+text-decoration: none;
+color:chocolate;
+}
+
+
+
+
+.pagelinks {
+    position:static;
+    margin: 0 auto;
+    
+    }
+   
+    
+
+
+.pagelinks:hover{
+color:black;
+}
+
+a:hover {
+color: black;
+}
+
+.pagelinks2:hover {
+color: black;
+}
+
+.geninfo {
+color: rgb(46, 44, 44);
+line-height: 2;
+padding-left: 12.42%;
+margin-top: 0;
+text-align: justify;
+font-size: large;
+font-family: 'Times New Roman', Times, serif;
+padding-right: 35%;
+}
+
+
+
+
+.JeterPic {
+    position: relative;
+    display: block;
+    flex-direction:row ;
+    margin-bottom: 100px;
+   
+}
+
+.JeterPic img {
+width: 19%;
+display:inline-block;
+position: absolute;
+height: auto;
+right: 12.42%;
+bottom: 115%
+}
+
+.caption {
+    margin-left: 64.75%;
+display: inline-block;
+padding-top: 0px;
+padding-right: 10.92%;
+padding-left: 73px;
+}
+
+.midline {
+color: rgb(196, 196, 196);
+width: 75%;
+}
+
+.midline2 {
+margin-top: -50px;
+}
+
+
+.YTphoto {
+width: 25%;
+display:inline-block;
+vertical-align:top;
+margin-left: 14.19%;
+padding-top: 25px;
+padding-bottom: 25px;
+}
+
+.caption2 {
+margin-left: 15px;
+display:inline-block;
+font-size: large;
+font-family: 'Times New Roman', Times, serif;
+margin-top: 5px;
+line-height: 2;
+}
+
+.container {
+display:flex;
+align-items: flex-start;
+padding-right: 12.42%;
+}
+
+.thirdLineCAP {
+display:inline-block;
+font-size: large;
+font-family: 'Times New Roman', Times, serif;
+margin: 0%;
+bottom:0;
+padding-bottom: 50px;
+padding-left: 12.42%;
+}
+
+
+.copyright {
+text-align: center;
+display:inline-block;
+font-size: large;
+font-family: 'Times New Roman', Times, serif;
+padding-top: 25px;
+padding-bottom: 25px;
+padding-right: 12.42%;
+padding-left: 480px;
+}
+
+/* BIO page----------------------------- */
+
+@media (max-width: 690px) {
+    .page2copyright {
+        margin-right: 1% !important;
+    }
+}
+    @media (max-width: 690px) {
+        .page2email {
+          margin-right: -34.3% !important;
+         }
+        }
+
+h1 {
+display: inline-block;
+margin: 0;
+margin-top: 3%;
+color:chocolate;
+text-decoration: none;
+font-family: 'Times New Roman', Times, serif;
+        }
+.page2head {
+margin-left:12.42%;
+color: rgb(172, 170, 170);
+}
+
+.pagelinks3 {
+right: 12.8%;
+position:absolute;
+
+
+
+
+}
+
+.pagelinks3:hover {
+color:black;
+}
+
+
+.biotext {
+margin-top: 5px;
+line-height: 2;
+display:inline-block;
+font-size: large;
+font-family: 'Times New Roman', Times, serif;
+margin-left:12.42%;
+padding-right: 12.42%;
+
+}
+
+.midline-5 {
+margin-top: 20%;
+opacity: 0%;
+}
+
+.page2email {
+    display:inline-block;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    margin-bottom: 51px;
+    margin-left: 12.47%;
+    margin-right: -16%;
+   
+    
+}
+
+.page2copyright {
+    font-size: large;
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    margin-left: 41.66%  !important;
+
+    
+}
+
+
+
+
